@@ -1,2 +1,2 @@
-# JavaScript
+# TupeScript
 Treinamentos da faculdade
