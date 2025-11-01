@@ -1,2 +1,2 @@
-# TupeScript
+# TypeScript
 Treinamentos da faculdade
